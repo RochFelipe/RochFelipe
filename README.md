@@ -1,4 +1,4 @@
-## Olá! Eu sou Felipe, estudante de Ciência da Computação e apaixonado por novas Tecnologias 🖥️
+## Olá! Eu sou Felipe, estudante de Ciência da Computação e apaixonado por novas tecnologias e com sede de aprender. 🖥️
 <div align="center">
   <a href="https://github.com/RochFelipe">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RochFelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
